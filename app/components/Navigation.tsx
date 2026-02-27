@@ -60,6 +60,14 @@ export default function Navigation() {
       type: 'page'
     },
     {
+      id: 'punch-the-monkey',
+      label: 'Punch 🐒',
+      icon: Sparkles,
+      description: 'AI Monkey Art · Fan Tribute',
+      href: '/punch-the-monkey',
+      type: 'page'
+    },
+    {
       id: 'blog',
       label: 'Blog',
       icon: BookOpen,

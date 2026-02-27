@@ -24,10 +24,10 @@ const footerSections = [
     links: [
       { label: 'NanoBanana AI', href: '/nanobanana' },
       { label: 'Seedream 4.0', href: '/seedream' },
+      { label: 'Punch the Monkey 🐒', href: '/punch-the-monkey' },
       { label: 'Username to Image', href: '/nanobanana' },
       { label: 'Text to Image', href: '/nanobanana' },
       { label: 'Image to Image', href: '/nanobanana' },
-      { label: 'API Access', href: '#' }
     ]
   },
   {
